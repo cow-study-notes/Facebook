@@ -15,8 +15,9 @@
     邮箱登录
     https://accounts.google.com/signin/v2/identifier?service=mail&passive=1209600&osid=1&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin#inbox
 
-    修改邮箱密码
+    修改邮箱密码+修改辅助有限
     https://accounts.google.com/signin/v2/challenge/pwd?continue=https%3A%2F%2Fmyaccount.google.com%2Fsigninoptions%2Fpassword%3Fcontinue%3Dhttps%3A%2F%2Fmyaccount.google.com%2Fsecurity%3Fhl%253Den&service=accountsettings&hl=en&sarp=1&scc=1&rart=ANgoxcePswVDEwdj5dLL7Gccf9vP2oaxrUGLocHpeU0b54JVg3VJ3N7GvFtQewi953SBsA2wBcu2W-Hq94D6igGKlxrngr2eGQ&TL=AM3QAYbSYA7EQTzFAWoPI3zBR3nmXrPYaRiOJ1kDXwQ6Itee3W54jTzRX5cC60FE&flowName=GlifWebSignIn&cid=1&flowEntry=ServiceLogin
 
     https://zh-cn.facebook.com/
     注册facebook填写用户资料
+    注册好完善基本资料（头像、背景、居住地、个性签名、爱好）
